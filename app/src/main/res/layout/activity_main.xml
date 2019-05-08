@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Select Your Programming language:"
+        android:text="@string/select_your_programming_language"
         android:textSize="24sp"
         android:textStyle="bold"
         android:textColor="@color/Red"
